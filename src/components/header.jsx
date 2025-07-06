@@ -55,7 +55,7 @@ function Header() {
         </div>
         <div className="md:hidden flex justify-center items-center">
           <motion.a href="#" variants={itemVariants} custom={6}>
-            <img src="/src/assets/image/logo.svg" alt="IISC Expo & Forum" className="w-28" />
+            <img src="/assets/image/logo.svg" alt="IISC Expo & Forum" className="w-28" />
           </motion.a>
         </div>
       </nav>
