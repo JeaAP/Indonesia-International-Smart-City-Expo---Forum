@@ -36,7 +36,7 @@ function Header() {
                 variants={itemVariants}
                 custom={0}
               >
-                <img src="/public/assets/image/logo.svg" alt="IISC Expo & Forum" className="w-28 md:w-32" />
+                <img src="/assets/image/logo.svg" alt="IISC Expo & Forum" className="w-28 md:w-32" />
               </motion.a>
             </li>
             {['Home', 'About Us', 'Theme', 'Galery', 'Contact'].map((text, index) => (

@@ -74,7 +74,7 @@ function Theme() {
             <div 
               className="absolute inset-0 md:right-0 md:left-auto md:w-full"
               style={{ 
-                backgroundImage: 'url(/public/assets/image/ImageBg2.png)',
+                backgroundImage: 'url(/assets/image/ImageBg2.png)',
                 backgroundSize: 'contain',
                 backgroundPosition: 'right',
                 backgroundRepeat: 'no-repeat'
