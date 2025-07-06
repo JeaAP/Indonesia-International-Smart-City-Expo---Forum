@@ -2,6 +2,8 @@
 
 A modern, responsive web application for the Indonesia International Smart City Expo & Forum (IISC), built with React, Vite, and Tailwind CSS. This project showcases event information, themes, galleries, and contact details with engaging animations and a clean user interface.
 
+**Visit the live site:** [https://indonesia-international-smart-city-phi.vercel.app](https://indonesia-international-smart-city-phi.vercel.app)
+
 ## Features
 
 - **Responsive Design:** Optimized for all devices using Tailwind CSS.
@@ -74,3 +76,4 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 This is my first web using react vite + tailwind css, and I'm open to any suggestions or improvements. I'm still learning and I know there are a lot of things that can be improved. So, please don't hesitate to contribute.
 
 ### Developed by JeaAP
+
