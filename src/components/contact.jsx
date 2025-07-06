@@ -19,14 +19,14 @@ function Contact() {
         <div className="flex flex-col md:flex-row gap-12 items-center">
           <div className="w-full md:w-1/2 flex justify-center md:justify-start">
             <img
-              src="/src/assets/image/ImageBg3.png"
+              src="/public/assets/image/ImageBg3.png"
               alt="Person"
               className="sm:w-full lg:w-90 h-auto object-contain"
             />
           </div>
           <div className="w-full md:w-2/3 space-y-6">
             <img
-              src="/src/assets/image/logo.svg"
+              src="/public/assets/image/logo.svg"
               alt="IISC Logo"
               className="w-32 md:w-40"
             />

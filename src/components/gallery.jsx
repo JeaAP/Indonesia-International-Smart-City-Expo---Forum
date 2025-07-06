@@ -6,7 +6,7 @@ function Gallery() {
       <div
         className="absolute top-0 left-0 w-full h-full pointer-events-none z-0"
         style={{
-          backgroundImage: 'url(/src/assets/image/Vektor2L.png)',
+          backgroundImage: 'url(/public/assets/image/Vektor2L.png)',
           backgroundSize: 'contain',
           backgroundPosition: 'left top',
           backgroundRepeat: 'no-repeat',
@@ -15,7 +15,7 @@ function Gallery() {
       <div
         className="absolute top-0 right-0 w-full h-full pointer-events-none z-0"
         style={{
-          backgroundImage: 'url(/src/assets/image/Vektor2R.png)',
+          backgroundImage: 'url(/public/assets/image/Vektor2R.png)',
           backgroundSize: 'contain',
           backgroundPosition: 'right bottom',
           backgroundRepeat: 'no-repeat',
@@ -38,13 +38,13 @@ function Gallery() {
               whileHover={{ scale: 1.05 }}
             >
               <img
-                src={`/src/assets/image/Property${index + 1}.png`}
+                src={`/public/assets/image/Property${index + 1}.png`}
                 alt={`Gallery Image ${index + 1}`}
                 className="w-full h-full object-cover"
               />
               <div className="absolute bottom-0 left-0 right-0 h-1/3 bg-gradient-to-t from-white to-transparent flex items-end justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <img
-                  src="/src/assets/image/logo.svg"
+                  src="/public/assets/image/logo.svg"
                   alt="Overlay Logo"
                   className="w-48 mb-4 sm:w-32 sm:mb-3"
                 />

@@ -92,14 +92,14 @@ function Hero() {
           <div 
             className="absolute inset-0"
             style={{ 
-              backgroundImage: 'url(/src/assets/image/Vektor1.png)',
+              backgroundImage: 'url(/public/assets/image/Vektor1.png)',
               backgroundSize: '80%',
               backgroundPosition: 'center',
               backgroundRepeat: 'no-repeat',
             }}
           >
             <img
-              src="/src/assets/image/Property1NoBG.png"
+              src="/public/assets/image/Property1NoBG.png"
               alt="Hero"
               className="w-full h-full object-contain object-bottom mt-2.5"
             />

@@ -130,14 +130,14 @@ function About() {
             <div 
               className="absolute inset-0"
               style={{ 
-                backgroundImage: 'url(/src/assets/image/ImageBg1.png)',
+                backgroundImage: 'url(/public/assets/image/ImageBg1.png)',
                 backgroundSize: 'contain',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat'
               }}
             />
             <motion.img
-              src="/src/assets/image/Property4NoBG.png"
+              src="/public/assets/image/Property4NoBG.png"
               alt="About IISC"
               className="absolute inset-0 w-full h-full object-contain object-center"
               initial={{ opacity: 0 }}
